@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USER": "c_bremmer@outlook.com",
+    "MONGO_PASSWORD": "Boilers3043!",
+    "MONGO_DB": "typescript-todo"
+  }
+}
